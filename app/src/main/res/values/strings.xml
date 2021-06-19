@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsBreeze</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="large_text">Washington - Sed ut perspiciatis un natus error sit voluptatem accusan ium doloremque laudan. sed quia consequuntur magni dolores eos ratione voluptatem sequi nesciunt. Neque porro quisqua uia non mest, qui dolorem ipsum quia dolo rsit amet, consectetur, adipisci velit sed quia non numquam eius modi empora incidunt ut labore et dolo magnam aliquam quaerat volupta. Ut enim ad minima veniam, quis ostrum exercitationem ullam corri suscipit laboriosam, nisi ut aliqu.</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
