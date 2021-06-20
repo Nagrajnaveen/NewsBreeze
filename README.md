@@ -2,7 +2,7 @@
 
 App build with best practices.
 
-**Feautures** 
+**Feautures:** 
 
 Architecture - MVVM
 
